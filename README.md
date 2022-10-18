@@ -13,7 +13,7 @@ Users should be able to:
 
 ### Links
 
-- [Solution]()
+- [Solution](https://www.frontendmentor.io/solutions/responsive-planet-facts-site-using-react-Jbwyb4I7Wh)
 - [Live Site](https://planet-facts-fm.netlify.app/)
 
 ### Built with
