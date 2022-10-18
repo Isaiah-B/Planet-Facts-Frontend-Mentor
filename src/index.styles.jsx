@@ -42,7 +42,6 @@ export const GlobalStyles = createGlobalStyle`
   }
 
   .attribution {
-    display: none;
     margin-top: 2rem;
     font-size: 11px;
     text-align: center; 
