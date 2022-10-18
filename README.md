@@ -1,4 +1,4 @@
-# Interactive Comments Section
+# Responsive Planet Facts Site
 
 ![](public/screenshot.png)
 
@@ -14,7 +14,7 @@ Users should be able to:
 ### Links
 
 - [Solution]()
-- [Live Site]()
+- [Live Site](https://planet-facts-fm.netlify.app/)
 
 ### Built with
 
