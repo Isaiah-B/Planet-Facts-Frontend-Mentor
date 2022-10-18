@@ -20,7 +20,7 @@ function MenuButton({ children, active, handleButtonClick }) {
     <MenuButtonContainer
       className={`${isActive ? 'active' : ''}`}
       onClick={() => setActive()}
-      color={active}
+      selectedColor={active}
     >
       {children}
     </MenuButtonContainer>

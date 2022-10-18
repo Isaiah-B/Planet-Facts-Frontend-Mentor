@@ -160,7 +160,7 @@ export const MenuButtonContainer = styled.button`
 
   &.active {
     padding-top: 30px;
-    border-top: 4px solid ${(props) => desktopMenuColors[props.color]};
+    border-top: 4px solid ${(props) => desktopMenuColors[props.selectedColor]};
     color: hsl(0, 0%, 100%);
   }
 
@@ -170,7 +170,7 @@ export const MenuButtonContainer = styled.button`
     &.active {
       padding-top: 32px;
       border-top: 0;
-      border-bottom: 4px solid ${(props) => desktopMenuColors[props.color]};
+      border-bottom: 4px solid ${(props) => desktopMenuColors[props.selectedColor]};
     }
   }
 
