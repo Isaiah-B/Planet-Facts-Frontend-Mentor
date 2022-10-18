@@ -3,7 +3,7 @@ import { device } from '../../media-variables';
 import { PlanetInfoContainer } from '../planet-info/planet-info.styles';
 import { PlanetPageSelectorContainer } from '../planet-page-selector/planet-page-selector.styles';
 
-export const PlanetPageContainer = styled.div`
+export const PlanetPageContainer = styled.main`
   display: flex;
   flex-direction: column;
   align-items: center;
